@@ -1,6 +1,6 @@
 cask "redshift-hub" do
-  version "1.26.0"
-  sha256 "d5a49f3680d7bd19bd4c095b6c8ac3bb9ce77d5c1532c70b48bcd4108f59c9fb"
+  version "1.27.0"
+  sha256 "468d8ef0d552edcff9e3c6d0b35693ba3d5528afa0c9e0bf1480df9cd4cb2d9a"
 
   url "https://www.redshifthub.com/releases/RedshiftHub-#{version}.dmg"
   name "Redshift Hub"
